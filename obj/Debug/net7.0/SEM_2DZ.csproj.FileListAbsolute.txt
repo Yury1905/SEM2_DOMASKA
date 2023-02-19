@@ -1,0 +1,15 @@
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.csproj.AssemblyReference.cache
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.AssemblyInfoInputs.cache
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.AssemblyInfo.cs
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.csproj.CoreCompileInputs.cache
+E:\Sem 2\SEM_2DZ\bin\Debug\net7.0\SEM_2DZ.exe
+E:\Sem 2\SEM_2DZ\bin\Debug\net7.0\SEM_2DZ.deps.json
+E:\Sem 2\SEM_2DZ\bin\Debug\net7.0\SEM_2DZ.runtimeconfig.json
+E:\Sem 2\SEM_2DZ\bin\Debug\net7.0\SEM_2DZ.dll
+E:\Sem 2\SEM_2DZ\bin\Debug\net7.0\SEM_2DZ.pdb
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.dll
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\refint\SEM_2DZ.dll
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.pdb
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\SEM_2DZ.genruntimeconfig.cache
+E:\Sem 2\SEM_2DZ\obj\Debug\net7.0\ref\SEM_2DZ.dll
